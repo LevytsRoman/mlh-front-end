@@ -43,11 +43,11 @@
 }
 
 .clicked::before {
-  transform: rotateZ(405deg) translate(7px, 7px);
+  transform: rotateZ(405deg) translate(-5px, 18px);
   transition-timing-function: var(--timinig-function);
 }
 
 .clicked::after {
-  transform: rotateZ(-405deg) translate(6px, -7px);
+  transform: rotateZ(-405deg) translate(-4px, -18px);
   transition-timing-function: var(--timinig-function);
 }

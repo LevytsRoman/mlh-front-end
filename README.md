@@ -4,7 +4,7 @@ The challenge took me about 7 hours to complete, altho I did spend some time exp
 
 I want to say it took me about 3 hours to build something I thought was presentable and responsive, but then I decided to build my own hamburger icon, styling and animating it exclusively with CSS. Had a blast!
 
-See it in action [here](http://www.levytsroman.github.io/mlh-front-end).
+See it in action [here](https://levytsroman.github.io/mlh-front-end/).
 
 # Steps to complete the challenge
 * Included normalize.css CDN
@@ -40,3 +40,5 @@ See it in action [here](http://www.levytsroman.github.io/mlh-front-end).
 * Some refactoring and code cleanup
 
   Went through all the code getting rid of any code that wasn't used. Refactored my JavScript a bit, added alt tags for images, and decided that my hamburger-icon CSS should live in its own file. Found a bug where if the menu is open in small resolution, then you resize the browser to make it big, you can't interact with the page, so fixed that by adding an event listener for resizing.
+
+  Found and fixed another bug with overflow when the nav menu is open.
