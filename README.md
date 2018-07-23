@@ -4,7 +4,7 @@ The challenge took me about 7 hours to complete, altho I did spend some time exp
 
 I want to say it took me about 3 hours to build something I thought was presentable and responsive, but then I decided to build my own hamburger icon, styling and animating it exclusively with CSS. Had a blast!
 
-See it in action [here](http://www.levytsroman.github.io/mlh-front-end).
+See it in action [here](https://levytsroman.github.io/mlh-front-end/).
 
 # Steps to complete the challenge
 * Included normalize.css CDN
