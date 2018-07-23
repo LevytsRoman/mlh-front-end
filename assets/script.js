@@ -7,12 +7,14 @@ const run = () => {
     button.classList.remove("clicked");
     menu.classList.remove('nav-active');
     curtain.style.display = 'none';
+    document.body.style.overflow = 'auto';    
   }
 
   const hamburgerOpen = () => {
     button.classList.add("clicked");
     menu.classList.add('nav-active');
     curtain.style.display = 'block';
+    document.body.style.overflow = 'hidden';
   }
 
   const onHamburgerClick = () => {
