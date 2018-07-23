@@ -30,6 +30,10 @@ ul {
   list-style-type: none;
 }
 
+a:hover, .nav-opener {
+  cursor: pointer;
+}
+
 /* Nav Styles */
 
 header {
